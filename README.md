@@ -1,0 +1,2 @@
+# Noel crosses is a logic game
+Noel crosses is a logic game between two opponents on a square field of 4 by 4 cells or larger (up to an "endless field"). One of the players plays with "crosses", the other - with "noughts". The traditional Chinese game (Gomoku) uses black and white stones.
